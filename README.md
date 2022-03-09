@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RasulM97
-- 👀 I’m interested in Flutter, Oracle Apex, Python image processing
+- 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me Rasulm1997@gmail.com, Ras97m@gmail.com
