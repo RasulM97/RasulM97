@@ -28,7 +28,6 @@ I mainly code in Dart, but I always learn new skills, and work on improving myse
 
 ### 💽 Databases
 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 <a href="#"><img style="width: 70px;" src="https://raw.githubusercontent.com/hivedb/hive/master/.github/logo_transparent.svg?sanitize=true"></a>
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
