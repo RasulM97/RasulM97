@@ -7,7 +7,7 @@
 
 
 
-</br>I'm a 25-year-old Intern Flutter developer from Iran.
+</br>I'm a 25-year-old Flutter developer from Iran.
 I mainly code in Dart, but I always learn new skills, and work on improving myself.
   
 <!-- ## Quick overview
@@ -23,13 +23,17 @@ I mainly code in Dart, but I always learn new skills, and work on improving myse
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### ❇️ State Management
+
+- GetX
 
 ### 💽 Databases
 
-<a href="#"><img style="width: 70px;" src="https://raw.githubusercontent.com/hivedb/hive/master/.github/logo_transparent.svg?sanitize=true"></a>
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+- Hive
+- Get_storage
+- shared_preferences
 
 ### 💻 Software and tools
 
@@ -46,5 +50,4 @@ I mainly code in Dart, but I always learn new skills, and work on improving myse
 <p>
     <a href="https://wa.me/+989103963648"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
     <a href="https://t.me/Mr_Rasul"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-    <a href="https://www.instagram.com/rasul.m97/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
